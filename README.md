@@ -270,6 +270,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
+
+
  ### SWITCH ON :
 
 ![image](https://github.com/vishnudorigundla/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94175324/fada65c1-f9cb-4243-8495-04be6de9ab10)
