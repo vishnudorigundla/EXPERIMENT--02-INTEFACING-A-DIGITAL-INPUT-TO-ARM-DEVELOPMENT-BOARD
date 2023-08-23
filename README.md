@@ -5,9 +5,6 @@ To Interface a Digital Input  (userpush button  ) to ARM   development board and
 STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
-
- 
-  
 ## Procedure:
 ```
 1. Open a new STM32 Project
@@ -21,7 +18,6 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 7. Connect the  ARM board to usb 
 8. Check for execution of the output using run option
 ```
-
 ## STM 32 CUBE PROGRAM :
 ```
 Developed by : D.Vishnu vardhan reddy
